@@ -1,1 +1,1 @@
-# ML_based_QSAR_EGFR
+# De Novo Drug Design Using Reinvent
